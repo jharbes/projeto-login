@@ -55,3 +55,11 @@ div#formulario{
     padding: 10px;
     display: block;
 }
+p{
+    margin: 5px;
+    font-size: 0.8em;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+}
