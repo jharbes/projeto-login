@@ -42,10 +42,16 @@ section#login{
     transform: translate(-50%,-50%);
     border-radius: 20px;
     overflow: hidden;
+    box-shadow: 0px 0px 30px yellowgreen;
+    display: block;
 }
 div#imagem{
     background: #007EEE url(../imagens/pexels-mikhail-nilov-7672276.jpg);
     background-size: cover;
     height: 200px;
     background-position: center top;
+}
+div#formulario{
+    padding: 10px;
+    display: block;
 }
