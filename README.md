@@ -2,7 +2,7 @@
 
 # projeto-login
 
-Projeto tela de login responsivo e layout diferenciado para cada tipo de dispositivo, com utilização de HTML5, CSS3 e Media Queries.
+Projeto tela de login responsivo, com layout diferenciado para cada tipo de dispositivo, utilizando HTML5, CSS3 e Media Queries.
 
 *** EM CONSTRUÇÃO ***
 
