@@ -23,7 +23,7 @@ Lilás: #600086
     box-sizing: border-box;
 }
 html,body{
-    background-image: linear-gradient(to bottom,#007EEE,#600086);
+    background-image: linear-gradient(to bottom,#600086,#007EEE);
     height: 100vh;
     width: 100vw;
 }
