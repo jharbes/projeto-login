@@ -35,7 +35,7 @@ main{
 section#login{
     background-color: white;
     width: 250px;
-    height: 500px;
+    height: 570px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -56,16 +56,19 @@ div#imagem{
 div#formulario{
     padding: 10px;
     display: block;
+    text-align: center;
 }
 div#formulario>h1{
     text-align: center;
-    margin-bottom: 10px;
 }
 div#formulario>p{
-    margin: 5px;
+    padding: 10px;
     font-size: 0.8em;
 }
 input{
     padding: 5px;
-    margin: 5px;
+    margin: 10px;
+}
+input.entrar{
+    width: 100px;
 }
