@@ -35,6 +35,9 @@ Grandes telas: acima de 1200px
         float: left;
         width: 50%;
         height: 100%;
+        background: #007EEE url(../imagens/pexels-mikhail-nilov-7672278.jpg);
+        background-size: cover;
+        background-position: bottom center;
     }
     section#login>div#formulario{
         float: right;
