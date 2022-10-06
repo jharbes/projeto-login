@@ -2,6 +2,7 @@
 
 # projeto-login
 
-Projeto tela de login responsivo, com layout diferenciado para cada tipo de dispositivo, utilizando HTML5, CSS3 e Media Queries.
+<h3>Projeto tela de login responsivo, com layout diferenciado para cada tipo de dispositivo, utilizando HTML5, CSS3 e Media Queries.</h3>
+<br>
 
 Acesse em: https://jharbes.github.io/projeto-login/
